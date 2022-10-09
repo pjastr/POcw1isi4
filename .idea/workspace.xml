@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3a02d26-5eb6-4683-96ba-958f3b99479e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/POcw1isi4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/POcw1isi4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a3a02d26-5eb6-4683-96ba-958f3b99479e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665317031370</updated>
       <workItem from="1665317034222" duration="1732000" />
-      <workItem from="1665346976368" duration="362000" />
+      <workItem from="1665346976368" duration="641000" />
     </task>
     <servers />
   </component>
